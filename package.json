@@ -1,0 +1,20 @@
+{
+  "name": "footballheaven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriso2014/footballheaven.git"
+  },
+  "keywords": [],
+  "author": "Chris Ormerod <chrisormerod1981@gmail.com> (https://footballheaven.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chriso2014/footballheaven/issues"
+  },
+  "homepage": "https://github.com/chriso2014/footballheaven#readme"
+}
